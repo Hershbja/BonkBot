@@ -14,7 +14,7 @@ async def on_message(message):
     if (message.author.id == 474033385279586332) and (message.channel.id == 834872545307656222):
         await message.add_reaction(":bonk:831668953872859206")
 
-    if (message.author.id == 129455976658108416):
+    if (message.author.id == 129455976658108416) and (message.channel.id == 893755459868196865):
         await message.add_reaction(":kitty:851186465655226418")
         
         
